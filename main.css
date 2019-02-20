@@ -1,0 +1,20 @@
+.rep {
+    line-height: 2.5em;
+    border: 10px;
+}
+h1 {
+    text-align: center;
+    border: 2px;
+    border-radius: 5px;
+}
+
+section {
+    text-align: center;
+}
+
+.rep_leg{
+    text-align: center;
+}
+img {
+    text-align: center;
+}
